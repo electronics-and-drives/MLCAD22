@@ -1,0 +1,9 @@
+[submodule "circus"]
+	path = circus
+	url = https://github.com/AugustUnderground/circus
+[submodule "circus-solver"]
+	path = circus-solver
+	url = https://github.com/MichaelEssich/circus-solver
+[submodule "acid"]
+	path = acid
+	url = https://github.com/AugustUnderground/acid
