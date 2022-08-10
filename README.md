@@ -1,4 +1,4 @@
-<h1 style="text-align:center">
+<h1 align="center">
 Deep Reinforcement Learning for Analog Circuit Sizing with an Electrical Design
 Space and Sparse Rewards
 </h1>
@@ -20,7 +20,7 @@ $ git clone --recursive https://github.com/electronics-and-drives/MLCAD22
 ```
 @INPROCEEDINGS{UEBSC22,
     author    = {Uhlmann, Yannick and Essich, Michael and Bramlage, Lennart and Scheible, J{\"u}rgen and Curio, Crist{\'o}bal},
-    booktitle = {2022 {ACM}/{IEEE} 3\textsuperscript{rd} {Workshop} on {Machine} {Learning} for {CAD} ({MLCAD})},
+    booktitle = {2022 {ACM}/{IEEE} 4\textsuperscript{th} Workshop on Machine Learning for CAD (MLCAD)},
     title     = {Deep Reinforcement Learning for Analog Circuit Sizing with an Electrical Design Space and Sparse Rewards},
     year      = {2022},
     month     = sep,
